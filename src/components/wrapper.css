@@ -1,6 +1,6 @@
 .wrapper {
-  position: relative;
   width: 1440px;
   height: 900px;
-  background: #9072df;
+  margin: auto;
+  border: 1px solid #6c41da;
 }
