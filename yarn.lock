@@ -7544,6 +7544,11 @@ react@^18.2.0:
   dependencies:
     loose-envify "^1.1.0"
 
+reactjs-countdown-hook@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/reactjs-countdown-hook/-/reactjs-countdown-hook-1.0.5.tgz#dc3def4a47eadf55e769195ed57c36b9cbe771b2"
+  integrity sha512-qX40cqqjqQHLTGcXgzkuYAIA0yF9FmE8mZfPbsc9ny4LlkWzFFhwMb/kpwKZkv9Vi0Ph8g9srXY83eZeXXsVNw==
+
 read-cache@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/read-cache/-/read-cache-1.0.0.tgz#e664ef31161166c9751cdbe8dbcf86b5fb58f774"

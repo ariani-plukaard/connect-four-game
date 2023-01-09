@@ -8,7 +8,7 @@ const ScoreBoard = ({ playerNum, value }) => {
       <img src={playerNum === "playerOne" ? playerOne : playerTwo} className={playerNum === "playerOne" ? "image-one" : "image-two"} alt=""></img>
       <div className={playerNum === "playerOne" ? "white-box-one" : "white-box-two"}>
         <div className={playerNum === "playerOne" ? "score-text-one" : "score-text-two"}>
-          <p>{playerNum ? "PLAYER 1" : "PLAYER 2"}</p>
+          <p>{playerNum === "playerOne" ? "PLAYER 1" : "PLAYER 2"}</p>
           <p>{value}</p>
         </div>
       </div>
