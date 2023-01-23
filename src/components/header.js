@@ -4,9 +4,9 @@ import logo from '../images/logo.svg'
 const Header = ({ onClick }) => {
   return (
     <div className="header">
-      <button className="">MENU</button>
+      <button className="header-btn">MENU</button>
       <img src={logo} className="" alt=""></img>
-      <button className="" onClick={onClick}>RESTART</button>
+      <button className="header-btn" onClick={onClick}>RESTART</button>
     </div>
   )
 };
