@@ -1,3 +1,5 @@
+A Connect Four game using React. This project was a challenge from Frontend Mentor (www.frontendmentor.io/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
